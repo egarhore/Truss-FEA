@@ -1,0 +1,10 @@
+Total_Length(mm) 600
+Total_Height(mm) 200
+Mesh_Size(mm) 100
+Young_Modulus(Pa) 161000000000
+Radius(mm) 5
+Thickness(mm) 0.5
+Density(kg/m^3) 1350
+BoundaryType 2
+LoadType 3
+Load(N) 1000
